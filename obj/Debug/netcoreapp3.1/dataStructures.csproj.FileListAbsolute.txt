@@ -1,0 +1,12 @@
+/Users/rubenruvalcaba/Source/Repos/dataStructures/bin/Debug/netcoreapp3.1/dataStructures.deps.json
+/Users/rubenruvalcaba/Source/Repos/dataStructures/bin/Debug/netcoreapp3.1/dataStructures.runtimeconfig.json
+/Users/rubenruvalcaba/Source/Repos/dataStructures/bin/Debug/netcoreapp3.1/dataStructures.runtimeconfig.dev.json
+/Users/rubenruvalcaba/Source/Repos/dataStructures/bin/Debug/netcoreapp3.1/dataStructures.dll
+/Users/rubenruvalcaba/Source/Repos/dataStructures/bin/Debug/netcoreapp3.1/dataStructures.pdb
+/Users/rubenruvalcaba/Source/Repos/dataStructures/obj/Debug/netcoreapp3.1/dataStructures.csprojAssemblyReference.cache
+/Users/rubenruvalcaba/Source/Repos/dataStructures/obj/Debug/netcoreapp3.1/dataStructures.csproj.CoreCompileInputs.cache
+/Users/rubenruvalcaba/Source/Repos/dataStructures/obj/Debug/netcoreapp3.1/dataStructures.AssemblyInfoInputs.cache
+/Users/rubenruvalcaba/Source/Repos/dataStructures/obj/Debug/netcoreapp3.1/dataStructures.AssemblyInfo.cs
+/Users/rubenruvalcaba/Source/Repos/dataStructures/obj/Debug/netcoreapp3.1/dataStructures.dll
+/Users/rubenruvalcaba/Source/Repos/dataStructures/obj/Debug/netcoreapp3.1/dataStructures.pdb
+/Users/rubenruvalcaba/Source/Repos/dataStructures/obj/Debug/netcoreapp3.1/dataStructures.genruntimeconfig.cache
